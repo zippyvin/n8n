@@ -94,6 +94,8 @@
       "@mistralai/mistralai": "^1.10.0",
       "@n8n/typeorm>@sentry/node": "catalog:",
       "@types/node": "^20.17.50",
+      "@lezer/common": "1.2.1",
+      "@lezer/lr": "1.4.0",
       "axios": "1.12.0",
       "chokidar": "4.0.3",
       "esbuild": "^0.25.0",
